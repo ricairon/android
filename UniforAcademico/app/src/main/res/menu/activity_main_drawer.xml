@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_lista_disciplinas"
+            android:icon="@drawable/ic_subject_black_24dp"
+            android:title="@string/listadisciplinas" />
+        <item
+            android:id="@+id/nav_usuario_matricula"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="@string/minhamatricula" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+
+</menu>

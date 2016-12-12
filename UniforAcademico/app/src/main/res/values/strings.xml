@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Unifor Acadêmico</string>
+    <string name="descricaoLogo">Logo da UNIFOR</string>
+    <string name="naoecadastrado">Não é cadastrado? Cadastre-se!</string>
+    <string name="login">Login</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrarnovo">Cadastrar Novo Usuário</string>
+    <string name="email">E-mail</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="home">Home</string>
+    <string name="listadisciplinas">Listar Disciplinas</string>
+    <string name="minhamatricula">Minha Matrícula</string>
+    <string name="matricular2">Matricular</string>
+    <string name="logout">Logout</string>
+    <string name="listaMaterias">Lista de Matérias</string>
+    <string name="minhaMatricula">Minha Matrícula</string>
+    <string name="matricular">Matricular na disciplina</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
